@@ -47,6 +47,9 @@ Dataset supports training for Apriori rule mining and Random Forest model.
 
 ![Model Accuracy](images/Screenshot 2025-11-16 171005.png)
 
+![Model Accuracy](https://raw.githubusercontent.com/username/repo/branch/images/Screenshot_2025-11-16_171005.png)
+
+
 ---
 
 ## Conclusion
