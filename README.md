@@ -45,7 +45,7 @@ Dataset supports training for Apriori rule mining and Random Forest model.
   - False Negative: 143  
 - Apriori rules enhance interpretability by exposing common attack patterns.
 
-![Model Accuracy](images/Screenshot 2025-11-16 171005.png)
+
 
 ![Model Accuracy](https://github.com/vanshikas20/Network-intrusion-detection-system/blob/main/images/Screenshot%202025-11-16%20171005.png)
 
