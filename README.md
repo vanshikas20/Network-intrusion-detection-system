@@ -72,6 +72,3 @@ The hybrid Apriori + Random Forest system accurately detects network intrusions 
 - Snort and Suricata Open Source IDS Tools  
 
 ---
-
-1. Clone repository  
-2. Install dependencies:  
