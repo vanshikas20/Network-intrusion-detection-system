@@ -1,0 +1,4 @@
+duration,protocol_type,service,flag,src_bytes,dst_bytes,count,srv_count
+0,tcp,http,SF,200,1500,10,5
+0,tcp,http,S0,0,0,200,180
+5,udp,domain,SF,50,100,2,1
