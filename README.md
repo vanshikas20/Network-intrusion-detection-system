@@ -45,7 +45,7 @@ Dataset supports training for Apriori rule mining and Random Forest model.
   - False Negative: 143  
 - Apriori rules enhance interpretability by exposing common attack patterns.
 
-*Visualizations such as accuracy graphs, confusion matrices can be added here.*
+![Model Accuracy]("C:\Users\VANSHIKA\OneDrive\Pictures\Screenshots\Screenshot 2025-11-16 171005.png")
 
 ---
 
