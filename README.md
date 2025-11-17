@@ -39,10 +39,10 @@ Dataset supports training for Apriori rule mining and Random Forest model.
 - **Precision (Attack):** 0.99  
 - **Recall (Attack):** 0.96  
 - **Confusion Matrix Highlights:**  
-  - True Normal: 3997  
-  - False Positive: 38  
-  - True Attack: 3380  
-  - False Negative: 143  
+  - True Normal: 3993  
+  - False Positive: 42  
+  - True Attack: 3372  
+  - False Negative: 151  
 - Apriori rules enhance interpretability by exposing common attack patterns.
 
 
